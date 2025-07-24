@@ -110,3 +110,4 @@ directory  `target/failsafe-reports`
 ##Test 16
 ## Test aws 1
 ## Test aws day 2
+## Test aws day 3
