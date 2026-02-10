@@ -108,7 +108,5 @@ To view the test results, look at the console output or look under
 directory  `target/failsafe-reports`
 
 ##Test
-## Test aws day 2nd sept - 2
-## Test aws day 2nd sept - 12 sep
-## Test aws day 2nd sept - 12 -2  sep
+## Test Feb 10th.
 
