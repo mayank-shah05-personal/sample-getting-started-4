@@ -107,13 +107,7 @@ mvnw failsafe:integration-test
 To view the test results, look at the console output or look under 
 directory  `target/failsafe-reports`
 
-##Test 16
-## Test aws 1
-## Test aws day 2
-## Test aws day 3
-## Test aws day 4
-## Test aws day 5
-## Test aws day 2nd sept
+##Test
 ## Test aws day 2nd sept - 2
 ## Test aws day 2nd sept - 12 sep
 ## Test aws day 2nd sept - 12 -2  sep
